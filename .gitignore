@@ -1,0 +1,22 @@
+# Secrets
+.env
+
+# Confidential MLS data
+data/
+*.sql.gz
+/data/*.sql
+
+# Generated embeddings / caches
+*.npy
+*.pkl
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
