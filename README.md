@@ -13,21 +13,21 @@ A multi-agent AI assistant built on [OpenClaw](https://github.com/openclaw/openc
 
 ## Progress
 
-| Week | Module | Status |
-|---|---|---|
-| 0 | Environment setup | 🟡 In progress |
-| 1 | OpenClaw architecture | 🟡 In progress (see [docs/architecture.md](docs/architecture.md)) |
-| 2 | Natural-language property search | ⬜ |
-| 3 | MLS database integration | ⬜ |
-| 4 | Conversational agent | ⬜ |
-| 5 | Market analytics | ⬜ |
-| 6 | Embeddings and vector search | ⬜ |
-| 7 | Recommendation engine | ⬜ |
-| 8 | RAG pipeline | ⬜ |
-| 9 | Multi-agent orchestration | ⬜ |
-| 10 | WhatsApp layer | ⬜ |
-| 11 | Email agents and safety | ⬜ |
-| 12 | Capstone demo | ⬜ |
+| Week | Module |
+| --- | --- |
+| 0 | Environment setup |
+| 1 | OpenClaw architecture |
+| 2 | Natural-language property search |
+| 3 | MLS database integration |
+| 4 | Conversational agent |
+| 5 | Market analytics |
+| 6 | Embeddings and vector search |
+| 7 | Recommendation engine |
+| 8 | RAG pipeline |
+| 9 | Multi-agent orchestration |
+| 10 | WhatsApp layer |
+| 11 | Email agents and safety |
+| 12 | Capstone demo |
 
 ## Setup
 
